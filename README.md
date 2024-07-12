@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/pneumonia-detection
+    git clone https://github.com/Asshkid/pneumonia_detection
     ```
 
 2. Перейдите в директорию проекта:
